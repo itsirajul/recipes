@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'recipe.dart';
 
 void main() {
   runApp(const RecipeApp());
