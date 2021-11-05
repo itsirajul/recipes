@@ -27,7 +27,7 @@ class RecipeApp extends StatelessWidget {
         ),
       ),
       // 6
-      home: const MyHomePage(title: 'Recipe Calculator'),
+      home: const MyHomePage(title: 'Recipe Calculator By Ebrahim Khan'),
     );
   }
 }
